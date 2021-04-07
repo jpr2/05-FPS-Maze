@@ -4,6 +4,7 @@
 
 [node name="Menu" type="Control"]
 pause_mode = 2
+visible = false
 margin_right = 40.0
 margin_bottom = 40.0
 script = ExtResource( 1 )
